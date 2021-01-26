@@ -88,7 +88,7 @@ Status: 200 OK
 RLS Aliasing Notes:
 
 * The RLS Alias optional parameters made in the request of the access token are applied when the access token is used
-* If the access token has not been used before it has expired then the RLS Alias parameters in will not be saved to the user
+* If the access token has not been used before it has expired then the RLS Alias parameters in will not be saved
 
 #####(Redirect to) Binokula External Access
 **URL:** <https://binokula.app/Account/ExternalAccess>
